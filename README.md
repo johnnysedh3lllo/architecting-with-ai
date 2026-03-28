@@ -4,7 +4,7 @@
 
 ## Overview
 
-*A synthesis of three high-scoring AI interaction patterns identified in Anthropic's 2026 randomized study on skill formation. These guidelines distill the behaviors that preserved — and in some cases exceeded — the learning outcomes of working without AI entirely. The goal is not to limit how you use AI, but to ensure that every interaction with it moves your understanding forward.*
+*A synthesis of three high-scoring AI interaction patterns identified in Anthropic's 2026 randomized study on skill formation. These guidelines distill the behaviors that preserved — and in some cases exceeded — the learning outcomes of working without AI entirely. The goal is not just to control how you use AI, but to ensure that every interaction with it moves your understanding forward.*
 
 ---
 
