@@ -1,5 +1,4 @@
-# The Architect
-### The Culmination of All Three High-Scoring Personas
+# The Craftsman and The Tool
 
 ---
 
